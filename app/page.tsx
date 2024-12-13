@@ -13,6 +13,7 @@ export default function Home() {
                           alt="This is me."
                           width={259}
                           height={364}
+                          unoptimized={true}
                           className="rounded-lg shadow-md"
                       />
                   </div>
