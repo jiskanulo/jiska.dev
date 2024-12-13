@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
     title: 'jiskanulo',
     description: '無念',
-    keywords: ['jiskanulo', 'ポートフォリオ', 'ウェブ開発', 'プログラミング'],
+    keywords: ['jiskanulo'],
     authors: [{ name: 'jiskanulo' }],
     openGraph: {
         title: 'jiskanulo',
