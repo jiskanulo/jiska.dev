@@ -9,10 +9,10 @@ export default function Home() {
               <div className="flex flex-col md:flex-row gap-8">
                   <div className="flex-shrink-0">
                       <Image
-                          src="/avatar/2024.jpeg"
+                          src="/avatar/20241214-fs8.png"
                           alt="This is me."
-                          width={259}
-                          height={364}
+                          width={300}
+                          height={450}
                           unoptimized={true}
                           className="rounded-lg shadow-md"
                       />
