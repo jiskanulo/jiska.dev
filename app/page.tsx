@@ -3,9 +3,9 @@ import {SiX, SiGithub} from 'react-icons/si'
 
 export default function Home() {
   return (
-      <main className="p-8 bg-gray-200">
+      <main className="p-8 bg-gray-100 min-h-screen">
           <h1 className="text-3xl font-bold text-center mb-12">Jiskanulo</h1>
-          <div className="max-w-4xl mx-auto flex justify-center items-start h-screen">
+          <div className="max-w-4xl mx-auto flex justify-center items-start">
               <div className="flex flex-col md:flex-row gap-8">
                   <div className="flex-shrink-0">
                       <Image
@@ -17,7 +17,6 @@ export default function Home() {
                           className="rounded-lg shadow-md"
                       />
                   </div>
-
                   <div className="flex flex-col gap-4">
                       <div className="flex flex-col gap-4">
                           <a
