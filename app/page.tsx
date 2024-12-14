@@ -14,7 +14,7 @@ export default function Home() {
                           width={300}
                           height={450}
                           unoptimized={true}
-                          className="rounded-lg shadow-md"
+                          className="rounded-lg shadow-sm"
                       />
                   </div>
                   <div className="flex flex-col gap-4">
@@ -23,7 +23,7 @@ export default function Home() {
                               href="https://x.com/jiskanulo"
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="flex items-center gap-2 w-30 hover:text-blue-400 transition-colors"
+                              className="flex items-center gap-2 w-30 hover:text-blue-400 transition-colors shadow-sm"
                           >
                               <div
                                   className="w-[300px] bg-white flex items-center gap-2 p-2 rounded-lg border border-gray-200 hover:border-blue-400">
@@ -36,7 +36,7 @@ export default function Home() {
                               href="https://github.com/jiskanulo"
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="flex items-center gap-2 w-30 hover:text-blue-400 transition-colors"
+                              className="flex items-center gap-2 w-30 hover:text-blue-400 transition-colors shadow-sm"
                           >
                               <div
                                   className="w-[300px] bg-white flex items-center gap-2 p-2 rounded-lg border border-gray-200 hover:border-blue-400">
@@ -49,7 +49,7 @@ export default function Home() {
                               href="https://sizu.me/jiska"
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="flex items-center gap-2 w-30 hover:text-blue-400 transition-colors"
+                              className="flex items-center gap-2 w-30 hover:text-blue-400 transition-colors shadow-sm"
                           >
                               <div
                                   className="w-[300px] bg-white flex items-center gap-2 p-2 rounded-lg border border-gray-200 hover:border-blue-400">
