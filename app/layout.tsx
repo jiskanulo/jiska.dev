@@ -13,6 +13,7 @@ export const metadata: Metadata = {
         siteName: 'jiskanulo',
         locale: 'ja_JP',
         type: 'website',
+        images: { url: '/og_image-fs8.png', width: 1200, height: 630, alt: 'jiskanulo' },
     },
     icons: {
         icon: [
@@ -34,6 +35,7 @@ export const metadata: Metadata = {
         title: 'jiskanulo',
         description: '無念',
         creator: '@jiskanulo',
+        images: { url: '/og_image-fs8.png', width: 1200, height: 630, alt: 'jiskanulo' },
     },
     robots: {
         index: true,
